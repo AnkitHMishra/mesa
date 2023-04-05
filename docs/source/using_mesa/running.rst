@@ -314,7 +314,7 @@ Learning about the many MESA options
 
 After looking at the previous inlist, your more pressing question may be
 "where did those options come from?" and "how do I find the options
-appropriate for my problem?". Your first stop should be the instrument
+appropriate for my problem?". Your first step should be the instrument
 papers, which discuss the most important flags.
 
 The files that contain a description of all of the MESA options and
